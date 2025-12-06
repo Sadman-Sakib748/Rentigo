@@ -7,7 +7,7 @@
 ## 🌍 Live URL
 
 🔗 **Live API:** https://rentigo-tau.vercel.app
-🔗 **GitHub Repository:** https://github.com/TarekNexus/Rentigo
+🔗 **GitHub Repository:** https://github.com/Sadman-Sakib748/Rentigo
 
 
 ---
